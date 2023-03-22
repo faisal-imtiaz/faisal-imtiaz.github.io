@@ -1,11 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Faisal Imtiaz portfolio will be added here</h1>
+      <h1>My portfolio will be added here</h1>
     </div>
   );
 }
